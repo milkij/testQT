@@ -1,0 +1,16 @@
+# ninja log v5
+11	72	1706792580113557608	testQT_autogen/timestamp	49641769c2dd23b6
+11	72	1706792580113557608	testQT_autogen/mocs_compilation.cpp	49641769c2dd23b6
+11	72	1706792580113557608	/Users/alexander/CLionProjects/testQT/testQT_autogen/timestamp	49641769c2dd23b6
+156	235	1706792539089475431	CMakeFiles/testQT.dir/testQT_autogen/mocs_compilation.cpp.o	3ac1d168fccd30f7
+157	2221	1706792541069192633	CMakeFiles/testQT.dir/main.cpp.o	9a8f1aafd698015f
+1	370	1706792717017492014	build.ninja	33c4f0b9ebcf039a
+11	72	1706792580113557608	/Users/alexander/CLionProjects/testQT/testQT_autogen/mocs_compilation.cpp	49641769c2dd23b6
+2221	2450	1706792541299350626	testQT	d8093fe0f0b2231
+13	230	1706810004613068565	testQT_autogen/timestamp	9b77d9346a087b76
+13	230	1706810004613068565	testQT_autogen/mocs_compilation.cpp	9b77d9346a087b76
+13	230	1706810004613068565	/Users/alexander/CLionProjects/testQT/testQT_autogen/timestamp	9b77d9346a087b76
+13	230	1706810004613068565	/Users/alexander/CLionProjects/testQT/testQT_autogen/mocs_compilation.cpp	9b77d9346a087b76
+231	304	1706810004686522001	CMakeFiles/testQT.dir/testQT_autogen/mocs_compilation.cpp.o	ddce1d291e16b7ac
+231	3146	1706810007518620766	CMakeFiles/testQT.dir/main.cpp.o	619b2673e6a18f4e
+3147	3448	1706810007825769112	testQT	94af01f5155b4f20
